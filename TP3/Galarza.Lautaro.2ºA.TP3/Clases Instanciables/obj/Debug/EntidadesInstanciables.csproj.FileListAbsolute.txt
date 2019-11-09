@@ -1,0 +1,13 @@
+C:\Users\Lautaro\Desktop\Facultad\tp_laboratorio_2\TP3\Galarza.Lautaro.2ºA.TP3\Clases Instanciables\obj\Debug\EntidadesInstanciables.csproj.CoreCompileInputs.cache
+C:\Users\Lautaro\Desktop\Facultad\tp_laboratorio_2\TP3\Galarza.Lautaro.2ºA.TP3\Clases Instanciables\obj\Debug\EntidadesInstanciables.csprojAssemblyReference.cache
+C:\Users\Lautaro\Desktop\Facultad\tp_laboratorio_2\TP3\Galarza.Lautaro.2ºA.TP3\Clases Instanciables\bin\Debug\Clases Instanciables.dll
+C:\Users\Lautaro\Desktop\Facultad\tp_laboratorio_2\TP3\Galarza.Lautaro.2ºA.TP3\Clases Instanciables\bin\Debug\Clases Instanciables.pdb
+C:\Users\Lautaro\Desktop\Facultad\tp_laboratorio_2\TP3\Galarza.Lautaro.2ºA.TP3\Clases Instanciables\bin\Debug\Archivos.dll
+C:\Users\Lautaro\Desktop\Facultad\tp_laboratorio_2\TP3\Galarza.Lautaro.2ºA.TP3\Clases Instanciables\bin\Debug\Clases Abstractas.dll
+C:\Users\Lautaro\Desktop\Facultad\tp_laboratorio_2\TP3\Galarza.Lautaro.2ºA.TP3\Clases Instanciables\bin\Debug\Excepciones.dll
+C:\Users\Lautaro\Desktop\Facultad\tp_laboratorio_2\TP3\Galarza.Lautaro.2ºA.TP3\Clases Instanciables\bin\Debug\Archivos.pdb
+C:\Users\Lautaro\Desktop\Facultad\tp_laboratorio_2\TP3\Galarza.Lautaro.2ºA.TP3\Clases Instanciables\bin\Debug\Clases Abstractas.pdb
+C:\Users\Lautaro\Desktop\Facultad\tp_laboratorio_2\TP3\Galarza.Lautaro.2ºA.TP3\Clases Instanciables\bin\Debug\Excepciones.pdb
+C:\Users\Lautaro\Desktop\Facultad\tp_laboratorio_2\TP3\Galarza.Lautaro.2ºA.TP3\Clases Instanciables\obj\Debug\EntidadesInstanciables.csproj.CopyComplete
+C:\Users\Lautaro\Desktop\Facultad\tp_laboratorio_2\TP3\Galarza.Lautaro.2ºA.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.dll
+C:\Users\Lautaro\Desktop\Facultad\tp_laboratorio_2\TP3\Galarza.Lautaro.2ºA.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.pdb

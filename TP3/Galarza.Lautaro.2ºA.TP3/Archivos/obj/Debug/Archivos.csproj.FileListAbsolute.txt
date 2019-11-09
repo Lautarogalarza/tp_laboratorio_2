@@ -1,0 +1,8 @@
+C:\Users\Lautaro\Desktop\Facultad\tp_laboratorio_2\TP3\Galarza.Lautaro.2ºA.TP3\Archivos\bin\Debug\Archivos.dll
+C:\Users\Lautaro\Desktop\Facultad\tp_laboratorio_2\TP3\Galarza.Lautaro.2ºA.TP3\Archivos\bin\Debug\Archivos.pdb
+C:\Users\Lautaro\Desktop\Facultad\tp_laboratorio_2\TP3\Galarza.Lautaro.2ºA.TP3\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+C:\Users\Lautaro\Desktop\Facultad\tp_laboratorio_2\TP3\Galarza.Lautaro.2ºA.TP3\Archivos\obj\Debug\Archivos.dll
+C:\Users\Lautaro\Desktop\Facultad\tp_laboratorio_2\TP3\Galarza.Lautaro.2ºA.TP3\Archivos\obj\Debug\Archivos.pdb
+C:\Users\Lautaro\Desktop\Facultad\tp_laboratorio_2\TP3\Galarza.Lautaro.2ºA.TP3\Archivos\bin\Debug\Excepciones.dll
+C:\Users\Lautaro\Desktop\Facultad\tp_laboratorio_2\TP3\Galarza.Lautaro.2ºA.TP3\Archivos\bin\Debug\Excepciones.pdb
+C:\Users\Lautaro\Desktop\Facultad\tp_laboratorio_2\TP3\Galarza.Lautaro.2ºA.TP3\Archivos\obj\Debug\Archivos.csproj.CopyComplete

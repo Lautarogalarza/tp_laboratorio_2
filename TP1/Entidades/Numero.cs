@@ -9,6 +9,7 @@ namespace Entidades
     {
         private double numero;
 
+
         #region Constructores
         
         /// <summary>
